@@ -50,7 +50,7 @@ public class BaseUtil {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         //driver.get("https://www.officedepot.com/");
         driver.get("https://www.chase.com/");
-        //driver.get("www,nypost.com");
+        //driver.get("www,chase.com");
         // driver.manage().window().fullscreen();
     }
 

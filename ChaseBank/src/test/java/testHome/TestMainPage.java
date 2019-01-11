@@ -4,25 +4,28 @@ import home.MainPage;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import reporting.TestLogger;
 
 public class TestMainPage extends MainPage {
-    MainPage mainPage;
-    @BeforeMethod
-    public void initialize() {
-        TestLogger.log(convertToString(new Object(){}.getClass().getSimpleName()) + " : " + convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName())); //implemented by Nasir
-        mainPage = PageFactory.initElements(driver, MainPage.class);
+    MainPage cb = null;
+
+    @Test
+    public void Test () {
+    cb = PageFactory.initElements(driver, MainPage.class);
+    cb.clickOnSearchButton();
     }
 
     @Test
-    public void testAtmAndBranch(){
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        mainPage.checkAtmAndBranch();
+    public void Test1() {
+    cb = PageFactory.initElements(driver,MainPage.class);
+    cb.clickonGetChase();
     }
-
-
-
+    @Test
+    public void Test2() {
+    cb = PageFactory.initElements(driver,MainPage.class);
+    cb.clickOnSignIn();
+    }
 }
