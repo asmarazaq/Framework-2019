@@ -2,13 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a6b0932-a837-400e-aa21-20266dba49f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChaseBank/src/main/java/home/SearchLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChaseBank/src/main/java/home/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnecttoMongodDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/ChaseBank.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ChaseBank/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/screenshots/testAtmAndBranch (01.06.2019-13:14PM).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/screenshots/testLogo (01.06.2019-13:10PM).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/screenshots/testatmAndBranch (01.10.2019-18:46PM).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/screenshots/testfindSearch (01.10.2019-18:46PM).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ChaseBank/src/main/java/home/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/main/java/home/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/resources/renner" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/resources/renner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/resources/renner" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/resources/renner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/ChaseBank-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/home/MainPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/home/MainPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/home/MainPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/home/MainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/test-classes/renner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChaseBank/target/test-classes/testHome/TestMainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/BaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ApplicationLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/TestLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAutomationChaseAsma2019.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,47 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/home/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/resources/renner">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="369">
+              <caret line="180" column="61" selection-start-line="180" selection-start-column="61" selection-end-line="180" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,11 +73,61 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestMainPage.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="307">
+              <caret line="103" column="30" lean-forward="true" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#11662#11663#0" expanded="true" />
+                <element signature="e#11723#11724#0" expanded="true" />
+                <element signature="e#11782#11783#0" expanded="true" />
+                <element signature="e#11857#11858#0" expanded="true" />
+                <element signature="e#12069#12070#0" expanded="true" />
+                <element signature="e#12138#12139#0" expanded="true" />
+                <element signature="e#12187#12188#0" expanded="true" />
+                <element signature="e#12267#12268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnecttoMongodDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="92" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="135" column="58" selection-start-line="135" selection-start-column="58" selection-end-line="135" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,28 +163,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+            <state relative-caret-position="450">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -151,18 +191,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/ChaseBank/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/AplicationLog.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
         <option value="$PROJECT_DIR$/ChaseBank/src/test/resources/renner" />
+        <option value="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestLogin.java" />
+        <option value="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestPage.java" />
+        <option value="$PROJECT_DIR$/ChaseBank/src/main/java/home/SearchPage.java" />
+        <option value="$PROJECT_DIR$/ChaseBank/src/main/java/home/SearchLogin.java" />
         <option value="$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestMainPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnecttoMongodDB.java" />
         <option value="$PROJECT_DIR$/ChaseBank/src/main/java/home/MainPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -178,24 +227,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ChaseBank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ChaseBank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="WebAutomationChaseAsma2019" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -207,8 +238,10 @@
       <select />
     </treeState>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="717" />
@@ -219,44 +252,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -264,72 +301,63 @@
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testHome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="browserDriver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -337,34 +365,45 @@
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomationChaseAsma2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationChaseAsma2019" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+              <item name="databases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameworkChaseBank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547166978266" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547849248933" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic/browserDriver" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ChaseBank/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/browserDriver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -379,8 +418,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestMainPage">
-    <configuration name="TestMainPage" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestMainPage.Test10">
+    <configuration name="TestMainPage.Test10" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ChaseBank" />
       <extension name="coverage">
         <pattern>
@@ -390,23 +429,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testHome" />
       <option name="MAIN_CLASS_NAME" value="testHome.TestMainPage" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMainPage.testAtmAndBranch" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ChaseBank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testHome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testHome" />
-      <option name="MAIN_CLASS_NAME" value="testHome.TestMainPage" />
-      <option name="METHOD_NAME" value="testAtmAndBranch" />
+      <option name="METHOD_NAME" value="Test10" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -414,7 +437,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMainPage.testLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMainPage.Test6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ChaseBank" />
       <extension name="coverage">
         <pattern>
@@ -424,7 +447,61 @@
       </extension>
       <option name="PACKAGE_NAME" value="testHome" />
       <option name="MAIN_CLASS_NAME" value="testHome.TestMainPage" />
-      <option name="METHOD_NAME" value="testLogo" />
+      <option name="METHOD_NAME" value="Test6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainPage.Test7" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ChaseBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestMainPage" />
+      <option name="METHOD_NAME" value="Test7" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainPage.Test8" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ChaseBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestMainPage" />
+      <option name="METHOD_NAME" value="Test8" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainPage.Test9" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ChaseBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHome" />
+      <option name="MAIN_CLASS_NAME" value="testHome.TestMainPage" />
+      <option name="METHOD_NAME" value="Test9" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -434,9 +511,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestMainPage" />
-        <item itemvalue="TestNG.TestMainPage.testAtmAndBranch" />
-        <item itemvalue="TestNG.TestMainPage.testLogo" />
+        <item itemvalue="TestNG.TestMainPage.Test10" />
+        <item itemvalue="TestNG.TestMainPage.Test9" />
+        <item itemvalue="TestNG.TestMainPage.Test8" />
+        <item itemvalue="TestNG.TestMainPage.Test7" />
+        <item itemvalue="TestNG.TestMainPage.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -452,36 +531,98 @@
       <updated>1546796833043</updated>
       <workItem from="1546796838380" duration="1670000" />
       <workItem from="1546802763583" duration="26889000" />
+      <workItem from="1547509576425" duration="759000" />
+      <workItem from="1547510504464" duration="1613000" />
+      <workItem from="1547514527040" duration="1618000" />
+      <workItem from="1547516374071" duration="1672000" />
+      <workItem from="1547547284045" duration="1812000" />
+      <workItem from="1547549169068" duration="1722000" />
+      <workItem from="1547561604606" duration="1774000" />
+      <workItem from="1547563435841" duration="1407000" />
+      <workItem from="1547566261680" duration="1007000" />
+      <workItem from="1547570196795" duration="1804000" />
+      <workItem from="1547572447041" duration="1776000" />
+      <workItem from="1547574290196" duration="1775000" />
+      <workItem from="1547576119417" duration="809000" />
+      <workItem from="1547578939996" duration="1776000" />
+      <workItem from="1547580770276" duration="1988000" />
+      <workItem from="1547583396352" duration="1727000" />
+      <workItem from="1547585591748" duration="1488000" />
+      <workItem from="1547588059428" duration="1717000" />
+      <workItem from="1547594376137" duration="1783000" />
+      <workItem from="1547596216056" duration="670000" />
+      <workItem from="1547603299975" duration="1708000" />
+      <workItem from="1547605132252" duration="1743000" />
+      <workItem from="1547606976528" duration="1783000" />
+      <workItem from="1547608903885" duration="1423000" />
+      <workItem from="1547610799065" duration="1092000" />
+      <workItem from="1547630871475" duration="1750000" />
+      <workItem from="1547632703717" duration="1765000" />
+      <workItem from="1547634544618" duration="1758000" />
+      <workItem from="1547636381697" duration="1229000" />
+      <workItem from="1547662080924" duration="1771000" />
+      <workItem from="1547663929230" duration="1162000" />
+      <workItem from="1547667440617" duration="1120000" />
+      <workItem from="1547680675734" duration="1770000" />
+      <workItem from="1547682505052" duration="1773000" />
+      <workItem from="1547684340327" duration="1082000" />
+      <workItem from="1547706735853" duration="1795000" />
+      <workItem from="1547708594950" duration="1110000" />
+      <workItem from="1547755748977" duration="1784000" />
+      <workItem from="1547757788639" duration="1717000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMainPage_testLogo - 2019.01.06 at 13h 10m 57s.xml">
-      <configuration name="TestMainPage.testLogo" configurationId="TestNG" />
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 10m 03s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMainPage_testAtmAndBranch - 2019.01.06 at 13h 14m 07s.xml">
-      <configuration name="TestMainPage.testAtmAndBranch" configurationId="TestNG" />
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 11m 04s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMainPage - 2019.01.10 at 18h 47m 07s.xml">
-      <configuration name="TestMainPage" configurationId="TestNG" />
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 23m 52s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 24m 25s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 25m 27s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 27m 29s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 14h 31m 39s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 21h 50m 44s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 21h 59m 21s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Test10 - 2019.01.15 at 22h 02m 07s.xml">
+      <configuration name="TestMainPage.Test10" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28559000" />
+    <option name="totallyTimeSpent" value="88591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1280" height="717" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="717" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3248" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,7 +630,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890365" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32890365" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -503,6 +644,39 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27544427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3255814" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890365" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32890365" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -516,10 +690,125 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/AplicationLog.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/home/SearchLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/screenshots/Test2 (01.15.2019-06:02AM).png" />
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/home/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="104" selection-start-line="31" selection-start-column="104" selection-end-line="31" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="1515" column="36" selection-start-line="1515" selection-start-column="36" selection-end-line="1515" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="433" selection-start-line="433" selection-end-line="433" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/resources/renner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        <state relative-caret-position="285">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/home/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="180" column="61" selection-start-line="180" selection-start-column="61" selection-end-line="180" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnecttoMongodDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="92" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="135" column="58" selection-start-line="135" selection-start-column="58" selection-end-line="135" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -536,76 +825,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="450">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/resources/renner">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/testHome/TestMainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="307">
+          <caret line="103" column="30" lean-forward="true" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/home/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#11662#11663#0" expanded="true" />
+            <element signature="e#11723#11724#0" expanded="true" />
+            <element signature="e#11782#11783#0" expanded="true" />
+            <element signature="e#11857#11858#0" expanded="true" />
+            <element signature="e#12069#12070#0" expanded="true" />
+            <element signature="e#12138#12139#0" expanded="true" />
+            <element signature="e#12187#12188#0" expanded="true" />
+            <element signature="e#12267#12268#0" expanded="true" />
           </folding>
         </state>
       </provider>
